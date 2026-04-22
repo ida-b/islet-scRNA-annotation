@@ -1,4 +1,4 @@
-# scRNA-seq analysis notebook
+# scRNA-seq analysis of scRNA-seq replicates from iPSC-derived islet grafts
 
 This repository contains the notebook used to generate all scRNA-seq–related figures for the manuscript (Chenglei Tian et al., 2026).
 
